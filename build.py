@@ -4,7 +4,7 @@ from distutils.core import setup, Extension
 
 from Cython.Build import cythonize
 
-main_file = "zero.cpp"
+main_file = "apa_ini.cpp"
 
 try:
 
