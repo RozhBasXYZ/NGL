@@ -4,11 +4,13 @@ from distutils.core import setup, Extension
 
 from Cython.Build import cythonize
 
-main_file = "apa_ini.cpp"
+main_file = "zero.cpp"
 
 try:
 
-	nama = main_file.split(".")[0]	setup(
+	nama = main_file.split(".")[0]
+
+	setup(
 
 		name = main_file,
 
