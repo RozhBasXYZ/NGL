@@ -1,3 +1,3 @@
-from apa_ini
+import apa_ini
 
 apa_ini()
