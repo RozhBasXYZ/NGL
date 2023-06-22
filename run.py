@@ -1,3 +1,3 @@
-import apa_ini as main
+import apa_ini
 
-main()
+apa_ini.main()
