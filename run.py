@@ -1,3 +1,3 @@
-import apa_ini
+import apa_ini main
 
-apa_ini()
+main()
